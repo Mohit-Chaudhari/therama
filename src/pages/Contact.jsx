@@ -19,7 +19,7 @@ const Contact = () => {
                         </div>
                         <h3 className="font-bold text-lg mb-2">Phone</h3>
                         <p className="text-gray-600 mb-2">Mon-Fri from 9am to 6pm</p>
-                        <a href="tel:+919876543210" className="text-primary-600 font-bold hover:underline">+91 98765 43210</a>
+                        <a href="tel:+919999310415" className="text-primary-600 font-bold hover:underline">+91 99993 10415</a>
                     </div>
 
                     <div className="bg-gray-50 p-8 rounded-2xl text-center">
@@ -28,7 +28,7 @@ const Contact = () => {
                         </div>
                         <h3 className="font-bold text-lg mb-2">Email</h3>
                         <p className="text-gray-600 mb-2">Our team will get back to you within 24 hours.</p>
-                        <a href="mailto:contact@therama.in" className="text-primary-600 font-bold hover:underline">contact@therama.in</a>
+                        <a href="mailto:taxmainder@gmail.com" className="text-primary-600 font-bold hover:underline">taxmainder@gmail.com</a>
                     </div>
 
                     <div className="bg-gray-50 p-8 rounded-2xl text-center">
@@ -36,8 +36,8 @@ const Contact = () => {
                             <MapPin size={24} />
                         </div>
                         <h3 className="font-bold text-lg mb-2">Office</h3>
-                        <p className="text-gray-600 mb-2">Visit us at our HQ.</p>
-                        <address className="text-primary-600 font-bold not-italic">123 Business Park, New Delhi</address>
+                        <p className="text-gray-600 mb-2">Visit us at.</p>
+                        <address className="text-primary-600 font-bold not-italic">New Delhi, India</address>
                     </div>
                 </div>
             </Section>

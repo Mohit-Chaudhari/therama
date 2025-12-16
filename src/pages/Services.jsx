@@ -39,19 +39,28 @@ const Services = () => {
                 "Private Limited Company Registration",
                 "One Person Company (OPC) Registration",
                 "Public Limited Company Registration",
-                "Partnership Firm Registration"
+                "Partnership Firm Registration",
+                "Section 8 Company Registration",
+                "Nidhi Company Registration",
+                "Producer Company Registration",
+                "Other Business Registration"
             ]
         },
         {
             title: "Government Registration",
             color: "bg-indigo-600",
             services: [
+                "Digital Signature Certificate (DSC)",
                 "Goods & Services Tax (GST) Registration",
                 "Import Export Code (IEC)",
                 "FSSAI (Food License) Registration",
+                "ISO Registration",
+                "PF (Provident Fund) Registration",
+                "ESI Registration",
                 "MSME / Udyam Registration",
-                "Digital Signature Certificate (DSC)",
-                "ISO Certification"
+                "Professional Tax Registration",
+                "Shop & Establishment Act Registration",
+                "Other Registration Services"
             ]
         },
         {
@@ -59,10 +68,12 @@ const Services = () => {
             color: "bg-purple-600",
             services: [
                 "Trademark Registration",
-                "Copyright Registration",
-                "Patent Filing",
                 "Trademark Objection Reply",
-                "Trademark Renewal"
+                "Trademark Renewal",
+                "Copyright Registration",
+                "Patent Registration",
+                "Design Registration",
+                "Other IPR Services"
             ]
         },
         {
@@ -73,8 +84,12 @@ const Services = () => {
                 "Income Tax Return (ITR) Filing",
                 "TDS Return Filing",
                 "Annual Company Compliance",
-                "Diretor KYC",
-                "Company Closure / Winding Up"
+                "LLP Related Compliance",
+                "Company Compliance",
+                "Director KYC",
+                "Company Closure / Winding Up",
+                "Accounting & Bookkeeping Services",
+                "Other Compliance Services"
             ]
         }
     ];

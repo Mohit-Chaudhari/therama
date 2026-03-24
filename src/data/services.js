@@ -178,6 +178,59 @@ export const servicesData = {
             "Zero penalty assurance for timely data",
             "Expert advisory on complex transactions"
         ]
+    },
+
+    // Loans
+    "personal-loan": {
+        title: "Personal Loan",
+        category: "Loan Services",
+        icon: Users,
+        shortDescription: "Unlock financial freedom with our hassle-free personal loans.",
+        overview: "Our personalized personal loan solutions provide swift approval, flexible repayment terms, and tailored support to meet your unique needs. Whether it is for a wedding, medical emergency, or personal expenses, we have got you covered.",
+        process: [
+            { title: "Application Submission", description: "Submit your details along with required documentation." },
+            { title: "Verification", description: "We verify your credit score, income, and background." },
+            { title: "Approval", description: "Fast track approval process ensures you get a quick decision." },
+            { title: "Disbursal", description: "Funds are transferred directly into your bank account." }
+        ],
+        documents: [
+            "Aadhar Card, PAN Card, Voter ID",
+            "Last 6 months Bank Statement",
+            "Salary Slips / ITR for last 2 years",
+            "Passport Size Photographs"
+        ],
+        whyChooseUs: [
+            "High Approval Rates",
+            "Minimal Documentation",
+            "Fastest Disbursal",
+            "No Hidden Fees"
+        ]
+    },
+    "home-loan": {
+        title: "Home Loan",
+        category: "Loan Services",
+        icon: Building,
+        shortDescription: "Build your dream home with our seamless home loan process.",
+        overview: "Get closer to your dream home with our easy home loans. We offer competitive interest rates, long repayment tenures, and maximum funding to make your home ownership journey smooth.",
+        process: [
+            { title: "Property Selection", description: "Finalize the property you wish to purchase." },
+            { title: "Application & Assessment", description: "Submit application to assess your eligibility and property valuation." },
+            { title: "Sanction", description: "Get the loan sanction letter based on eligibility." },
+            { title: "Legal & Technical Check", description: "Verification of property documents and physical technical check." },
+            { title: "Disbursement", description: "Loan amount is disbursed to the builder/seller." }
+        ],
+        documents: [
+            "Property Documents (Chain of titles, NOC, etc.)",
+            "Proof of Identity and Address",
+            "Income Proof (Salary slips/ITR)",
+            "Bank Statements of the last 6 months"
+        ],
+        whyChooseUs: [
+            "Lower Interest Rates",
+            "Flexible Repayment Options",
+            "Complete end-to-end guidance",
+            "Transparent Process"
+        ]
     }
 };
 

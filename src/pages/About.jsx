@@ -7,7 +7,7 @@ const About = () => {
         <div className="pt-20">
             <div className="bg-gray-50 py-20 border-b border-gray-100">
                 <div className="container mx-auto px-6">
-                    <h1 className="text-4xl md:text-5xl font-bold text-primary-900 mb-6">About Therama</h1>
+                    <h1 className="text-4xl md:text-5xl font-bold text-primary-900 mb-6">About GST Seva</h1>
                     <p className="text-xl text-gray-600 max-w-3xl">
                         We are a team of Chartered Accountants, Company Secretaries, and Legal Professionals dedicated to simplifying business compliance in India.
                     </p>
@@ -19,7 +19,7 @@ const About = () => {
                     <div>
                         <h2 className="text-3xl font-bold text-primary-900 mb-6">Our Mission</h2>
                         <p className="text-gray-600 mb-6 leading-relaxed">
-                            At Therama, our mission is to empower entrepreneurs and businesses by removing the hurdles of legal and financial compliance. We believe that starting and running a business should be seamless, allowing you to focus on what matters most—growth and innovation.
+                            At GST Seva, our mission is to empower entrepreneurs and businesses by removing the hurdles of legal and financial compliance. We believe that starting and running a business should be seamless, allowing you to focus on what matters most—growth and innovation.
                         </p>
                         <p className="text-gray-600 mb-6 leading-relaxed">
                             Since our inception, we have helped over 500 businesses navigate the complex landscape of Indian corporate laws, tax regulations, and government registrations.

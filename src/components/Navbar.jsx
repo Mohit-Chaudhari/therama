@@ -72,6 +72,14 @@ const Navbar = () => {
                 "Company Closure",
                 "Accounting Services"
             ]
+        },
+        {
+            title: "Loan",
+            path: "/services#loan",
+            items: [
+                "Personal Loan",
+                "Home Loan"
+            ]
         }
     ];
 
@@ -101,10 +109,8 @@ const Navbar = () => {
             >
                 <div className="container mx-auto px-6 flex justify-between items-center">
                     <Link to="/" className="text-2xl font-bold text-primary-900 flex items-center gap-2 shrink-0">
-                        <div className="w-10 h-10 bg-primary-800 rounded-lg flex items-center justify-center text-white font-serif">
-                            T
-                        </div>
-                        <span>THERAMA<span className="text-accent-600">.</span></span>
+                        <img src="/gst-seva-logo.svg" alt="GST Seva Logo" className="w-10 h-10" />
+                        <span>GST Seva<span className="text-accent-600">.</span></span>
                     </Link>
 
                     {/* Desktop Menu */}

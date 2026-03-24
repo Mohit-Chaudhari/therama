@@ -79,7 +79,7 @@ const ServiceDetail = () => {
 
                     {/* Why Choose Us */}
                     <section>
-                        <h2 className="text-2xl font-bold text-gray-900 mb-6">Why Choose Therama?</h2>
+                        <h2 className="text-2xl font-bold text-gray-900 mb-6">Why Choose GST Seva?</h2>
                         <div className="grid md:grid-cols-3 gap-6">
                             {service.whyChooseUs.map((reason, index) => (
                                 <div key={index} className="bg-white p-6 rounded-xl shadow-sm border border-gray-100 text-center">

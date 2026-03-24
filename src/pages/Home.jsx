@@ -144,7 +144,7 @@ const Home = () => {
             <Section background="white">
                 <div className="grid md:grid-cols-2 gap-16 items-center">
                     <div>
-                        <h2 className="text-3xl md:text-4xl font-bold text-primary-900 mb-6">Why Choose Therama?</h2>
+                        <h2 className="text-3xl md:text-4xl font-bold text-primary-900 mb-6">Why Choose GST Seva?</h2>
                         <p className="text-lg text-gray-600 mb-8">
                             We combine years of expertise with modern technology to provide fast, reliable, and transparent services.
                         </p>

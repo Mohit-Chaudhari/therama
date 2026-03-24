@@ -11,7 +11,7 @@ const Footer = () => {
                     <div>
                         <div className="text-2xl font-bold mb-4 flex items-center gap-2">
                             <div className="w-8 h-8 bg-white/10 rounded-lg flex items-center justify-center text-white font-serif">T</div>
-                            <span>THERAMA<span className="text-accent-500">.</span></span>
+                            <span>GST Seva<span className="text-accent-500">.</span></span>
                         </div>
                         <p className="text-gray-400 mb-6 leading-relaxed">
                             Providing professional tax consultancy, company registration, and financial compliance services. Your partner in business growth.
@@ -73,7 +73,7 @@ const Footer = () => {
                 </div>
 
                 <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
-                    <p>&copy; {new Date().getFullYear()} Therama. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} GST Seva. All rights reserved.</p>
                     <div className="flex space-x-6 mt-4 md:mt-0">
                         <Link to="#" className="hover:text-white transition-colors">Privacy Policy</Link>
                         <Link to="#" className="hover:text-white transition-colors">Terms of Service</Link>
